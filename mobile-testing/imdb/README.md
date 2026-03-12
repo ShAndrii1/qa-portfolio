@@ -21,7 +21,7 @@ Exploratory testing was performed focusing on key areas of the application:
 
 ## Tools
 
-- iPhone 11 pro, iOS 26.2.1
+- Real device: iPhone 11 pro, iOS 26.2.1
 - Screen recording
 
 ---
