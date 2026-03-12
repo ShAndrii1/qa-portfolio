@@ -2,7 +2,7 @@
 
 This section contains exploratory and manual testing projects performed on mobile applications.
 
-Testing was conducted using real devices such as iPhone, Android. Android emulator and mobile debugging tools.
+Testing was conducted using real devices such as iPhone, Android. Android emulator and usb-debugger tool.
 
 Projects included:
 
