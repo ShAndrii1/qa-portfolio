@@ -95,7 +95,7 @@ Testing activities included:
 
 ### TestRail – Test Runs
 
-![TestRail Test Runs](screenshots/testrail-test-runs.png)
+![TestRail Test Runs](screenshots/runsTests.png)
 
 Test cases were organized into the following runs:
 
@@ -107,7 +107,7 @@ Test cases were organized into the following runs:
 
 ### TestRail – Test Cases
 
-![TestRail Test Cases](screenshots/testrail-test-cases.png)
+![TestRail Test Cases](screenshots/testCases.png)
 
 Test cases covered core business flows including authentication, candidate search, chat communication, and job management.
 
@@ -117,23 +117,10 @@ Test cases covered core business flows including authentication, candidate searc
 
 ### Jira Bug Board
 
-![Jira Board](screenshots/jira-bug-board.png)
+![Jira Board](screenshots/backlog.png)
 
 Defects were reported and tracked in Jira.  
 Each failed test case was linked to the corresponding bug.
-
----
-
-### Example Bug
-
-![Jira Bug](screenshots/jira-bug-example.png)
-
-Bug reports include:
-
-- clear reproduction steps
-- expected vs actual results
-- priority and severity
-- environment details
 
 ---
 
