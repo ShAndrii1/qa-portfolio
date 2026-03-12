@@ -1,33 +1,54 @@
 # Huntd – Web & Mobile Application Testing
 
-## Project Description
+## Project Overview
 
-Huntd is a platform designed to help users discover job opportunities and manage their job search process.  
-The platform provides features such as job search, application tracking, and company discovery.
+Huntd is a platform designed to connect engineers and recruiters through structured candidate discovery, communication, and hiring workflows.
 
-Testing was performed on both web and mobile versions of the application.
+The platform provides features such as:
 
----
+- candidate discovery
+- job posting and applications
+- recruiter–candidate chat
+- company directory
+- structured candidate profiles
 
-## Testing Scope
-
-The following functional areas were tested:
-
-- User registration and authentication
-- Job search functionality
-- Company profiles
-- Application tracking
-- Navigation and UI behavior
-
-Testing covered both web and mobile environments.
+Testing was performed for both **Web** and **Mobile** versions of the application.
 
 ---
 
-## Testing Approach
+# Testing Scope
+
+### Web application
+
+Main features tested:
+
+- Authentication (Sign in / Sign up)
+- Candidate registration flow
+- Recruiter registration flow
+- Candidate search and filtering
+- Candidate profiles
+- Chat communication
+- Profile management
+- Job posting and job applications
+- Web3 companies directory
+- Footer navigation
+
+### Mobile application (Android MVP)
+
+Features tested:
+
+- Sign in / Sign up
+- Chat functionality
+- Profile management
+- Account settings
+
+---
+
+# Testing Approach
 
 Manual testing was performed using structured QA documentation and test management tools.
 
-The following testing activities were completed:
+Testing activities included:
 
 - Test planning
 - Requirements analysis
@@ -38,46 +59,122 @@ The following testing activities were completed:
 
 ---
 
-## Test Documentation
+# Tools Used
 
-The project includes the following QA artifacts:
-
-- Test Plan
-- Requirements Traceability Matrix (RTM)
-- Permission Table
-- Test Cases in TestRail
-- Test Runs (Smoke, Feature, Full)
-- Bug Reports in Jira
-- Test Summary Report
+- TestRail – test case management and execution
+- Jira – bug tracking
+- Chrome DevTools
+- Android Studio Emulator
+- Physical Android Device
 
 ---
 
-## Tools
+# Test Execution
 
-- TestRail
-- Jira
-- Manual testing
-- Web testing
-- Mobile testing
+### Web Application
 
----
+| Metric | Value |
+|------|------|
+| Executed test cases | 347 |
+| Passed | 324 |
+| Failed | 21 |
+| Pass rate | 93% |
 
-## Key Findings
+### Mobile Application
 
-Several issues with potential business impact were identified during testing.
-
-Examples include:
-
-- Missing validation on multiple input fields
-- Lack of mandatory email verification during registration
-- Outdated or broken company links displayed on the main page
-
-These issues may negatively impact user trust and platform credibility.
+| Metric | Value |
+|------|------|
+| Executed test cases | 114 |
+| Passed | 93 |
+| Failed | 8 |
+| Pass rate | 82% |
 
 ---
 
-## Conclusion
+# Test Management
 
-Even well-designed systems may experience business risks when validation, data accuracy, and user trust factors are not properly handled.
+### TestRail – Test Runs
 
-Quality assurance plays an essential role in identifying such issues early and maintaining product reliability.
+![TestRail Test Runs](screenshots/testrail-test-runs.png)
+
+Test cases were organized into the following runs:
+
+- Smoke Test Run
+- Feature Test Run
+- Full Test Run
+
+---
+
+### TestRail – Test Cases
+
+![TestRail Test Cases](screenshots/testrail-test-cases.png)
+
+Test cases covered core business flows including authentication, candidate search, chat communication, and job management.
+
+---
+
+# Bug Tracking
+
+### Jira Bug Board
+
+![Jira Board](screenshots/jira-bug-board.png)
+
+Defects were reported and tracked in Jira.  
+Each failed test case was linked to the corresponding bug.
+
+---
+
+### Example Bug
+
+![Jira Bug](screenshots/jira-bug-example.png)
+
+Bug reports include:
+
+- clear reproduction steps
+- expected vs actual results
+- priority and severity
+- environment details
+
+---
+
+# Key Findings
+
+Several issues with potential business impact were identified:
+
+### Missing validation
+
+Many fields did not have proper validation, allowing invalid data.
+
+Impact:
+- spam accounts
+- poor data quality
+
+---
+
+### Missing email confirmation
+
+User accounts could be created without email verification.
+
+Impact:
+- potential creation of fake accounts
+- reduced platform credibility
+
+---
+
+### Outdated company links
+
+The homepage displayed top Web3 companies with outdated links.
+
+Impact:
+- reduced user trust
+- incorrect information presented to users
+
+---
+
+# Conclusion
+
+The platform demonstrates solid architecture and feature design.
+
+However, several issues affecting **data validation, user trust, and information accuracy** were identified during testing.
+
+Addressing these issues would significantly improve platform reliability and user confidence.
