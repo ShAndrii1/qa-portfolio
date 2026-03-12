@@ -174,4 +174,4 @@ The goal is to demonstrate **QA thinking, structured testing approach, and pract
 # Contact
 
 LinkedIn:  
-https://www.linkedin.com/in/
+https://www.linkedin.com/in/andrii-shapoval-014a2a394/
