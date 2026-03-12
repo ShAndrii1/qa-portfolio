@@ -1,4 +1,4 @@
-# EVA-5 – There is overlapping of logo and title on the "Find tickets" page
+# EVA-5 – There is overlapping of logo and title on the Find tickets page
 
 ## Steps to reproduce
 
