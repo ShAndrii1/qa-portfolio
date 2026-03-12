@@ -16,7 +16,7 @@ The following API features were tested:
 • User login  
 • Article creation  
 • Article deletion  
-• Comment creation
+• Comment creation  
 • Comment deletion
 
 ---
@@ -34,7 +34,7 @@ The following testing techniques were used:
 ## Tools
 
 • Postman  
-• JavaScript (Postman test scripts)
+• JavaScript (Postman test scripts)  
 • JSON (request body)
 
 ---
