@@ -1,16 +1,16 @@
 # QA Engineer Portfolio
 
-Hello! My name is Andrii Shapoval.
+Hello! My name is **Andrii Shapoval**.
 
-I am a QA Engineer focused on manual testing of web, mobile, and API applications.
+I am a QA Engineer focused on **manual testing of web, mobile, and API applications**.
 
 This portfolio contains examples of my practical QA work, including test documentation, exploratory testing, API test design, bug reporting, and test execution artifacts.
 
-The purpose of this repository is to demonstrate my testing approach, attention to detail, and ability to work with different types of applications and QA deliverables.
+The purpose of this repository is to demonstrate my **testing approach, attention to detail, and ability to work with different types of applications and QA deliverables.**
 
 ---
 
-## Skills
+# Skills
 
 - Manual Testing
 - Exploratory Testing
@@ -26,7 +26,7 @@ The purpose of this repository is to demonstrate my testing approach, attention 
 
 ---
 
-## Tools
+# Tools
 
 - Postman
 - Chrome DevTools
@@ -39,55 +39,141 @@ The purpose of this repository is to demonstrate my testing approach, attention 
 
 ---
 
-## Projects
+# Portfolio Structure
 
-### Web Testing
-#### [Huntd](./web-testing/huntd)
-Comprehensive manual testing project for web and mobile applications. Includes test plan, RTM, permission table, test execution, bug reporting, and test summary artifacts.
+qa-portfolio
+│
+├── api-testing
+│
+├── exploratory-testing
+│
+├── mobile-testing
+│
+└── web-testing
+    └── huntd
+        │
+        ├── test-plan
+        ├── test-strategy
+        ├── test-environment
+        ├── requirements-analysis
+        ├── bug-reports
+        ├── test-summary
+        └── screenshots
 
-### API Testing
-#### [Conduit API Testing](./api-testing/conduit)
-API test design project based on documented requirements. Includes Postman collection-level helpers for pre-requests and tests, test scenarios, test coverage, requirements analysis, and bug report examples.
+Each project demonstrates a different QA practice:
 
-### Exploratory Testing
-#### [JPetStore](./exploratory-testing/jpetstore)
-Exploratory testing project focused on identifying functional and usability issues through structured session-based testing.
-
-### Mobile Testing
-#### [IMDb](./mobile-testing/imdb)
-Exploratory testing of a iOS application focused on search, navigation, and movie details functionality.
-
-#### [Eventbrite](./mobile-testing/eventbrite)
-Mobile web exploratory testing using USB debugging and Chrome DevTools to inspect behavior and confirm issues.
-
-#### [Evernote](./mobile-testing/evernote)
-Exploratory and manual testing on a real Android device focused on validating core user flows.
-
-#### [Handyman](./mobile-testing/handyman)
-Manual testing performed in Android Studio emulator with defect investigation using logs.
+- API testing
+- exploratory testing
+- mobile testing
+- web application testing
+- requirements analysis
+- bug reporting
+- test documentation
 
 ---
 
-## What This Portfolio Demonstrates
+# Projects
+
+## Web Testing
+
+### [Huntd](./web-testing/huntd)
+
+Comprehensive manual testing project for web and mobile applications.
+
+Includes:
+
+- Test Plan
+- Mobile Test Plan
+- Requirements Traceability Matrix (RTM)
+- Permission Table
+- Bug reports
+- Test execution results
+- Test summary report
+- Testing metrics and charts
+
+---
+
+## API Testing
+
+### [Conduit API Testing](./api-testing/conduit)
+
+API test design project based on documented requirements.
+
+Includes:
+
+- Postman collection
+- Collection-level helpers
+- Pre-request scripts
+- Test scripts
+- Test scenarios
+- Test coverage documentation
+- Requirements analysis
+- Bug report examples
+
+---
+
+## Exploratory Testing
+
+### [JPetStore](./exploratory-testing/jpetstore)
+
+Exploratory testing project focused on identifying functional and usability issues through structured session-based testing.
+
+Includes:
+
+- exploratory testing notes
+- bug reports
+- testing observations
+
+---
+
+## Mobile Testing
+
+### [IMDb](./mobile-testing/imdb)
+
+Exploratory testing of an iOS application focused on search, navigation, and movie details functionality.
+
+---
+
+### [Eventbrite](./mobile-testing/eventbrite)
+
+Mobile web exploratory testing using **USB debugging and Chrome DevTools** to inspect behavior and confirm issues.
+
+---
+
+### [Evernote](./mobile-testing/evernote)
+
+Exploratory and manual testing on a **real Android device** focused on validating core user flows.
+
+---
+
+### [Handyman](./mobile-testing/handyman)
+
+Manual testing performed in **Android Studio emulator**, including defect investigation using logs.
+
+---
+
+# What This Portfolio Demonstrates
 
 This portfolio demonstrates my ability to:
 
 - analyze requirements
 - design and document test scenarios
 - perform exploratory and manual testing
-- identify and describe defects clearly
+- identify and clearly describe defects
 - work with web, mobile, and API products
 - understand the business impact of software issues
 
 ---
 
-## Notes
+# Notes
 
-Some projects in this portfolio are based on training, practice environments, or documented requirements.  
-The focus is on demonstrating QA thinking, structured testing approach, and practical test artifacts.
+Some projects in this portfolio are based on **training environments, practice systems, or documented requirements**.
+
+The goal is to demonstrate **QA thinking, structured testing approach, and practical testing artifacts.**
 
 ---
 
-## Contact
+# Contact
 
-LinkedIn: [https://www.linkedin.com/in/andrii-shapoval-014a2a394/]
+LinkedIn:  
+https://www.linkedin.com/in/
