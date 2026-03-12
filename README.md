@@ -44,21 +44,19 @@ The purpose of this repository is to demonstrate my **testing approach, attentio
 qa-portfolio
 │
 ├── api-testing
+│ └── conduit
 │
 ├── exploratory-testing
+│ └── jpetstore
 │
 ├── mobile-testing
+│ ├── eventbrite
+│ ├── imdb
+│ ├── handyman
+│ └── evernote
 │
 └── web-testing
-    └── huntd
-        │
-        ├── test-plan
-        ├── test-strategy
-        ├── test-environment
-        ├── requirements-analysis
-        ├── bug-reports
-        ├── test-summary
-        └── screenshots
+└── huntd
 
 Each project demonstrates a different QA practice:
 
