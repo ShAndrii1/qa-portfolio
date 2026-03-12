@@ -70,7 +70,7 @@ This document maps product requirements to test cases created in TestRail.
 | Filters                | Filters are visible to all users                                                                                            | C981 |
 | Filters                | Only authorized users can apply filters                                                                                     | C984 |
 | Filters                | Unauthorized users are prompted to sign in when interacting with filters                                              | C982, C983 |
-| Filters                | Filters include role, technologies, salary, English level, location           C986, C988, C989, C990, C991, C993, C994, C995, C997 |
+| Filters                | Filters include role, technologies, salary, English level, location         | C986, C988, C989, C990, C991, C993, C994, C995, C997 |
 
 ---
 
