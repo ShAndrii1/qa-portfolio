@@ -105,6 +105,9 @@ Includes:
 - Test summary report
 - Testing metrics and charts
 
+➡ Link to project:
+(https://docs.google.com/spreadsheets/d/1wRsgPgu7aX6eCGj1GK6ijrvqeL4S9Cp1idibMpQ64TQ/edit?gid=0#gid=0)
+
 ---
 
 ## API Testing
@@ -124,6 +127,9 @@ Includes:
 - Requirements analysis
 - Bug report examples
 
+➡ Link to project:
+(https://qaflex1125ashapoval.atlassian.net/browse/CAT-1)
+
 ---
 
 ## Exploratory Testing
@@ -138,6 +144,9 @@ Includes:
 - bug reports
 - testing observations
 
+➡ Link to project:
+(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
+
 ---
 
 ## Mobile Testing
@@ -146,11 +155,17 @@ Includes:
 
 Exploratory testing of an iOS application focused on search, navigation, and movie details functionality.
 
+➡ Link to project:
+(https://qaflex1125ashapoval.atlassian.net/browse/IMA-1)
+
 ---
 
 ### [Eventbrite](./mobile-testing/eventbrite)
 
 Mobile web exploratory testing using **USB debugging and Chrome DevTools** to inspect behavior and confirm issues.
+
+➡ Link to project:
+(https://qaflex1125ashapoval.atlassian.net/browse/EVA-1)
 
 ---
 
@@ -158,11 +173,17 @@ Mobile web exploratory testing using **USB debugging and Chrome DevTools** to in
 
 Exploratory and manual testing on a **real Android device** focused on validating core user flows.
 
+➡ Link to project:
+(https://qaflex1125ashapoval.atlassian.net/browse/EMA-1)
+
 ---
 
 ### [Handyman](./mobile-testing/handyman)
 
 Manual testing performed in **Android Studio emulator**, including defect investigation using logs.
+
+➡ Link to project:
+(https://qaflex1125ashapoval.atlassian.net/browse/HBA-1)
 
 ---
 
