@@ -107,7 +107,7 @@ Test cases were organized into the following runs:
 
 ### TestRail – Test Cases
 
-![TestRail Test Cases](screenshots/testCases.png)
+![TestRail Test Cases](screenshots/test-cases.png)
 
 Test cases covered core business flows including authentication, candidate search, chat communication, and job management.
 
