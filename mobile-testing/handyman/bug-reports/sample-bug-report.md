@@ -21,3 +21,7 @@ Authentication via Google fails – WebView JS interface error
 ## Priority
 
 High
+
+## Attachments
+
+Issue logs
