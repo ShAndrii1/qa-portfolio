@@ -51,9 +51,9 @@ qa-portfolio
 │  
 ├── mobile-testing  
 │ ├── eventbrite  
-│ ├── imdb  
+│ ├── evernote  
 │ ├── handyman  
-│ └── evernote  
+│ └── imdb  
 │  
 └── web-testing  
 └── huntd  
