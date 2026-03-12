@@ -89,11 +89,11 @@ Specific
 • "Get articles by tag" (Using timeOut you have called two functions in the Pre-requests of the request. One is to register a user, and the second one is to create an article. Use tag from the article creation on the Params tab of this request and don't add an Authorization header).    
 • "Follow the user" Two requests for registration are called using timeout).    
 • "Unfollow the user. (Two requests for registration are called using timeout, as well as the request to follow a user).    
-• "Get tags. (No registration pre-request is used here).    	
-• "Get articles from Your feed" (You have called four functions in the pre-request of the request:
-    1. One, for registering a user;
-    2. The next one - to register the second user;
-    3. The next one - to create an article by the second user;
+• "Get tags. (No registration pre-request is used here).    
+• "Get articles from Your feed" (You have called four functions in the pre-request of the request:    
+    1. One, for registering a user;    
+    2. The next one - to register the second user;    
+    3. The next one - to create an article by the second user;    
     4. The next - for the first user to follow the second user.    
     (You have added timeouts where they are needed).    
     (In the request you are getting the first user’s “Your feed” articles))    
