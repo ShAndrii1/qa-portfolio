@@ -58,24 +58,23 @@ The following testing techniques were used:
 
 General
 
-• You have 5 folders: "User", "Articles", "Profile", "Tags", and "Comments".		
-• "Your requests don't depend on your Environment.
-• All variables that you set with scripts are on the collection level."		
-• All of the other env. variables are set and used within each request		
-• "All of your requests are independent.
-• It means that each request works on its own, and doesn't need any previous request to be sent before.
+• You have 5 folders: "User", "Articles", "Profile", "Tags", and "Comments".    
+• Your requests don't depend on your Environment.    
+• All variables that you set with scripts are on the collection level.    		
+• All of the other env. variables are set and used within each request.    		
+• All of your requests are independent. (It means that each request works on its own, and doesn't need any previous request to be sent before.)    
 • You got first experience on how it can be done in the homework called: Postman Pre-requests Advanced."		
-• Each of your requests passes		
-• All the tests in the "Tests" tab for each request "Passed". For "Failed" tests created bug reports.		
-• "You have used the Pre-request of the Collection or folder.
-• There you have all of your pre-request scripts: registration, creating an article, creating a comment, etc."		
-• You are using your scripts from the Pre-request collection tab in your requests where they are needed.		
-• "All of the requests in the Collection are covered with tests.
-• These tests check not only the Status Code and Response time, but also the response body properties, if those exist, and the validation messages (if they are supposed to appear in the response)."		
-• Your current sets of tests are not called as so: basicTests1, basicTests2, basicTests3. Your namings are more specific, e.g. 'Assert response status code', 'Assert response time', 'Assert the response body properties'		
-• "All of the created articles are being deleted calling a function from the tests section of your request.
-• The function is written in the Pre-request of your collection to not trash the DB with a constantly growing mass of test data."		
-• You have launched your collection 3 times without selected environment, all the requests passed successfully.		
+• Each of your requests passes    		
+• All the tests in the "Tests" tab for each request "Passed". For "Failed" tests created bug reports.    		
+• "You have used the Pre-request of the Collection or folder.    
+• There you have all of your pre-request scripts: registration, creating an article, creating a comment, etc.    
+• You are using your scripts from the Pre-request collection tab in your requests where they are needed.    
+• All of the requests in the Collection are covered with tests.    
+• These tests check not only the Status Code and Response time, but also the response body properties, if those exist, and the validation messages (if they are supposed to appear in the response).    
+• Your current sets of tests are not called as so: basicTests1, basicTests2, basicTests3. Your namings are more specific, e.g. 'Assert response status code', 'Assert response time', 'Assert the response body properties'.    		
+• "All of the created articles are being deleted calling a function from the tests section of your request.    
+• The function is written in the Pre-request of your collection to not trash the DB with a constantly growing mass of test data.    	
+• You have launched your collection 3 times without selected environment, all the requests passed successfully.    
 
 Specific
 
