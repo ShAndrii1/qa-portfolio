@@ -42,21 +42,21 @@ The purpose of this repository is to demonstrate my **testing approach, attentio
 # Portfolio Structure
 
 qa-portfolio
-│
-├── api-testing
-│ └── conduit
-│
-├── exploratory-testing
-│ └── jpetstore
-│
-├── mobile-testing
-│ ├── eventbrite
-│ ├── imdb
-│ ├── handyman
-│ └── evernote
-│
-└── web-testing
-└── huntd
+│  
+├── api-testing  
+│ └── conduit  
+│  
+├── exploratory-testing  
+│ └── jpetstore  
+│  
+├── mobile-testing  
+│ ├── eventbrite  
+│ ├── imdb  
+│ ├── handyman  
+│ └── evernote  
+│  
+└── web-testing  
+└── huntd  
 
 Each project demonstrates a different QA practice:
 
