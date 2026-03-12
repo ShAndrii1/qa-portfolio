@@ -29,8 +29,8 @@ This document maps product requirements to test cases created in TestRail.
 
 |     Feature            |                               Requirement                                    |                   Test Cases                        |
 |------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| Candidate Registration | Role stage includes desired position and tech stack (5–15 skills)                   C860, C862, C863, C864, C865, C866, C867, C868 |
-| Candidate Registration | Expectations stage includes experience, salary expectations, English level and location         C872, C873, C880, C888, C889, C891 |
+| Candidate Registration | Role stage includes desired position and tech stack (5–15 skills)                 | C860, C862, C863, C864, C865, C866, C867, C868 |
+| Candidate Registration | Expectations stage includes experience, salary expectations, English level and location       | C872, C873, C880, C888, C889, C891 |
 | Candidate Registration | Experience stage allows importing experience from LinkedIn                              | C899, C904, C906, C907, C909, C910, C912 |
 | Candidate Registration | Bio stage includes achievements and expectations                                                                      | C924, C929 |
 | Candidate Registration | Contact stage includes avatar, name, CV upload and social links                   | C932, C935, C937, C938, C940, C942, C944, C945 |
