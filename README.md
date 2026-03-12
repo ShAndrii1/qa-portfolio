@@ -1,4 +1,4 @@
-# QA Portfolio
+# QA Engineer Portfolio
 
 Hello! My name is Andrii Shapoval.
 
