@@ -26,6 +26,22 @@ The purpose of this repository is to demonstrate my **testing approach, attentio
 
 ---
 
+## Testing Approach
+
+My testing approach focuses on identifying risks that may affect user experience, data integrity, and business logic.
+
+When testing applications I prioritize:
+
+- critical user flows (authentication, communication, job application flows)
+- role-based access control and permission validation
+- input validation and error handling
+- data consistency between different parts of the system
+- usability and user interface behavior
+- potential business impact of defects
+
+---
+
+
 # Tools
 
 - Postman
