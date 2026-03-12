@@ -95,7 +95,7 @@ Testing activities included:
 
 ### TestRail – Test Runs
 
-![TestRail Test Runs](screenshots/runsTests.png)
+![TestRail Test Runs](screenshots/test-runs.png)
 
 Test cases were organized into the following runs:
 
