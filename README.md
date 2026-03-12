@@ -41,7 +41,7 @@ The purpose of this repository is to demonstrate my **testing approach, attentio
 
 # Portfolio Structure
 
-qa-portfolio
+qa-portfolio  
 │  
 ├── api-testing  
 │ └── conduit  
