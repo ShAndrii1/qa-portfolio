@@ -145,7 +145,7 @@ Includes:
 - testing observations
 
 ➡ Link to project:
-(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
+(https://qaflex1125ashapoval.atlassian.net/browse/JWT-1)
 
 ---
 
