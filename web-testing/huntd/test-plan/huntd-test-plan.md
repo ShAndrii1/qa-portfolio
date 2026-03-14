@@ -250,15 +250,7 @@ Responsibilities:
 - Bug reporting in Jira
 - Smoke testing
 - Test summary reporting
-
-### MA Mentors
-
-Responsibilities:
-
-- Review test cases in TestRail
-- Provide feedback on defect reports
-- Validate documentation quality
-
+  
 ---
 
 ## 5.2 System Resources
