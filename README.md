@@ -66,10 +66,7 @@ qa-portfolio
 │ └── jpetstore  
 │  
 ├── mobile-testing  
-│ ├── eventbrite  
-│ ├── evernote  
-│ ├── handyman  
-│ └── imdb  
+│ └── flow  
 │  
 └── web-testing  
 └── huntd  
@@ -151,39 +148,22 @@ Includes:
 
 ## Mobile Testing
 
-### [IMDb](./mobile-testing/imdb)
+### [Flow](./mobile-testing/flow)
 
-Exploratory testing of an iOS application focused on search, navigation, and movie details functionality.
+Comprehensive manual mobile testing project for an offline-first expense tracker application.
 
-➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/IMA-1)
+Includes:
 
----
-
-### [Eventbrite](./mobile-testing/eventbrite)
-
-Mobile web exploratory testing using **USB debugging and Chrome DevTools** to inspect behavior and confirm issues.
-
-➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/EVA-1)
-
----
-
-### [Evernote](./mobile-testing/evernote)
-
-Exploratory and manual testing on a **real Android device** focused on validating core user flows.
+- Test Plan
+- Requirements Traceability Matrix (RTM)
+- Test cases and test runs
+- Smoke, regression, and full execution coverage
+- Bug reports
+- Test summary report
+- Supporting diagrams and execution visuals
 
 ➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/EMA-1)
-
----
-
-### [Handyman](./mobile-testing/handyman)
-
-Manual testing performed in **Android Studio emulator**, including defect investigation using logs.
-
-➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/HBA-1)
+(https://docs.google.com/spreadsheets/d/1XRUR7LAB8JNEX6h4wMEOfCZlf5H91pYa_j7wlhrL3z8/edit?gid=0#gid=0)
 
 ---
 
