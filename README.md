@@ -150,7 +150,7 @@ Includes:
 
 ### [Flow](./mobile-testing/flow)
 
-Comprehensive manual mobile testing project for an offline-first expense tracker application.
+Extensive manual mobile testing project for an offline-first expense tracker application.
 
 Includes:
 
