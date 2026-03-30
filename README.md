@@ -102,9 +102,6 @@ Includes:
 - Test summary report
 - Testing metrics and charts
 
-➡ Link to project:
-(https://docs.google.com/spreadsheets/d/1wRsgPgu7aX6eCGj1GK6ijrvqeL4S9Cp1idibMpQ64TQ/edit?gid=0#gid=0)
-
 ---
 
 ## API Testing
@@ -124,9 +121,6 @@ Includes:
 - Requirements analysis
 - Bug report examples
 
-➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/CAT-1)
-
 ---
 
 ## Exploratory Testing
@@ -140,9 +134,6 @@ Includes:
 - exploratory testing notes
 - bug reports
 - testing observations
-
-➡ Link to project:
-(https://qaflex1125ashapoval.atlassian.net/browse/JWT-1)
 
 ---
 
@@ -161,9 +152,6 @@ Includes:
 - Bug reports
 - Test summary report
 - Supporting diagrams and execution visuals
-
-➡ Link to project:
-(https://docs.google.com/spreadsheets/d/1XRUR7LAB8JNEX6h4wMEOfCZlf5H91pYa_j7wlhrL3z8/edit?gid=0#gid=0)
 
 ---
 
