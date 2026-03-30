@@ -11,9 +11,6 @@ The defect set includes functional, UI, localization, settings-related, and data
 - Jira backlog screenshot
 - Examples of documented defects from the executed testing scope
 
-## References
-- [View Jira backlog](https://qaflex1125ashapoval.atlassian.net/jira/software/projects/FMA/boards/237/backlog)
-
 ## Screenshots
 
 ### Sample Bug Report 
