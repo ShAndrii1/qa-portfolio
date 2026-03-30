@@ -11,10 +11,6 @@ The test set was prepared in **TestRail** and organized by product features to s
 - Regression test run
 - Full execution coverage
 
-## References
-- [View all test cases](https://qaflex26ashapoval.testrail.io/index.php?/suites/view/12&group_by=cases:section_id&group_order=asc&display=tree&display_deleted_cases=0)
-- [View all test runs](https://qaflex26ashapoval.testrail.io/index.php?/runs/overview/8)
-
 ## Screenshots
 ### Test Cases Overview
 ![Test Cases Overview](flow-test-cases.png)
