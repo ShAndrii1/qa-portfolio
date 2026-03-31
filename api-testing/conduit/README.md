@@ -7,9 +7,11 @@ This project contains API testing of the Conduit article platform using Postman.
 The goal of the project was to verify the functionality of the main API endpoints such as user authentication, articles management, and comments.
 
 ---
+
 ## Link to Postman Conduit API collection
 
-https://www.postman.com/all123nomore-9160748/workspace/postman-practice-andrii-shapoval/collection/51964884-ccade1d4-7c81-4385-909c-ca87395ed323?action=share&creator=51964884
+![Postman Collection]([postman-collection/screenshots/postman-tests.png](https://www.postman.com/all123nomore-9160748/workspace/postman-practice-andrii-shapoval/collection/51964884-ccade1d4-7c81-4385-909c-ca87395ed323?action=share&creator=51964884))
+
 ---
 
 ## Scope
